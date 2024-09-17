@@ -9,7 +9,7 @@ Api для платформы для блогов.
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-git clone https://github.com/Khamtsev/api_final_yatube
+git clone https://github.com/Khamtsev/api_blog_platform
 ```
 
 ```
